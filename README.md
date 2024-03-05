@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://artic-emu.org/"><img src="https://raw.githubusercontent.com/citra-emu/citra-assets/master/Main/citra_logo.svg" alt="Artic" width="200"></a>
+  <a href="https://artic-emu.org/"><img src="blob:https://imgur.com/98956782-f028-4532-af09-92082ee8b4ec" alt="Artic" width="256"></a>
   <br>
   <b>Artic</b>
   <br>
