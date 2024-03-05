@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">
   <br>
   <a href="https://artic-emu.org/"><img src="https://raw.githubusercontent.com/citra-emu/citra-assets/master/Main/citra_logo.svg" alt="Artic" width="200"></a>
@@ -48,11 +47,11 @@ Need help? Check out our [asking for help](https://artic-emu.org/help/reference/
 
 Artic has two main release channels: Nightly and Canary.
 
-The [Nightly](https://github.com/citra-emu/citra-nightly) build is based on the master branch, and contains already reviewed and tested features.
+The [Nightly](https://github.com/AURA-69/artic-nightly) build is based on the master branch, and contains already reviewed and tested features.
 
-The [Canary](https://github.com/citra-emu/citra-canary) build is based on the master branch, but with additional features still under review. PRs tagged `canary-merge` are merged only into the Canary builds.
+The [Canary](https://github.com/AURA-69/artic-canary) build is based on the master branch, but with additional features still under review. PRs tagged `canary-merge` are merged only into the Canary builds.
 
-Both builds can be installed with the installer provided on the [website](https://artic-emu.org/download/), but those looking for specific versions or standalone releases can find them in the release tabs of the [Nightly](https://github.com/citra-emu/citra-nightly/releases) and [Canary](https://github.com/citra-emu/citra-canary/releases) repositories.
+Both builds can be installed with the installer provided on the [website](https://artic-emu.org/download/), but those looking for specific versions or standalone releases can find them in the release tabs of the [Nightly](https://github.com/AURA-69/artic-nightly/releases) and [Canary](https://github.com/AURA-69/artic-canary/releases) repositories.
 
 Android builds can be downloaded from the Google Play Store.
 
@@ -63,7 +62,7 @@ A Flatpak for Artic is available on [Flathub](https://flathub.org/apps/details/o
 Most of the development happens on GitHub. It's also where [our central repository](https://github.com/citra-emu/citra) is hosted.
 For development discussion, please join us on our [Discord server](https://artic-emu.org/discord/) or at #citra-dev on libera.
 
-If you want to contribute please take a look at the [Contributor's Guide](https://github.com/citra-emu/citra/wiki/Contributing) and [Developer Information](https://github.com/citra-emu/citra/wiki/Developer-Information). You can also contact any of the developers on Discord in order to know about the current state of the emulator.
+If you want to contribute please take a look at the [Contributor's Guide](https://github.com/AURA-69/artic/wiki/Contributing) and [Developer Information](https://github.com/AURA-69/artic/wiki/Developer-Information). You can also contact any of the developers on Discord in order to know about the current state of the emulator.
 
 If you want to contribute to the user interface translation, please check out the [Artic project on transifex](https://www.transifex.com/citra/citra). We centralize the translation work there, and periodically upstream translations.
 
@@ -85,7 +84,9 @@ If you enjoy the project and want to support us financially, check out our Patre
 
 We also happily accept donated games and hardware.
 Please see our [donations page](https://artic-emu.org/donate/) for more information on how you can contribute to Artic.
-Any donations received will go towards things like:
+Any
+
+ donations received will go towards things like:
 * 3DS consoles for developers to explore the hardware
 * 3DS games for testing
 * Any equipment required for homebrew
@@ -97,4 +98,3 @@ We also more than gladly accept used 3DS consoles! If you would like to give you
 ## License
 
 Artic is licensed under the GPLv2 (or any later version). Refer to the [LICENSE.txt](https://github.com/citra-emu/citra/blob/master/license.txt) file.
-```
