@@ -66,11 +66,6 @@ If you want to contribute to the user interface translation, please check out th
 
 ## Support
 
-If you enjoy the project and want to support us financially, check out our Patreon!
-
-<a href="https://www.patreon.com/citraemu">
-    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
 
 We also happily accept donated games and hardware.
 Please see our [donations page](https://artic-emu.org/donate/) for more information on how you can contribute to Artic.
