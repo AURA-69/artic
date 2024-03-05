@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://artic-emu.org/"><img src="blob:https://imgur.com/98956782-f028-4532-af09-92082ee8b4ec" alt="Artic" width="256"></a>
+  <a href="https://artic-emu.org/"><img src="https://i.imgur.com/crKbNDX.png" alt="Artic" width="256"></a>
   <br>
   <b>Artic</b>
   <br>
