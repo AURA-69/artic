@@ -45,12 +45,12 @@ Both builds can be installed with the installer provided on the [website](https:
 
 Android builds can be downloaded from the Google Play Store.
 
-A Flatpak for Artic is available on [Flathub](https://flathub.org/apps/details/org.citra_emu.citra). Details on the build process can be found in [our Flathub repository](https://github.com/flathub/org.citra_emu.citra).
+A Flatpak for Artic is available on [Flathub](https://flathub.org/apps/details/org.artic_emu.artic). Details on the build process can be found in [our Flathub repository](https://github.com/flathub/org.artic_emu.artic).
 
 ## Development
 
-Most of the development happens on GitHub. It's also where [our central repository](https://github.com/citra-emu/citra) is hosted.
-For development discussion, please join us on our [Discord server](https://artic-emu.org/discord/) or at #citra-dev on libera.
+Most of the development happens on GitHub. It's also where [our central repository](https://github.com/AURA-69/cartic) is hosted.
+For development discussion, please join us on our [Discord server](https://artic-emu.org/discord/) or at #artic-dev on libera.
 
 If you want to contribute please take a look at the [Contributor's Guide](https://github.com/AURA-69/artic/wiki/Contributing) and [Developer Information](https://github.com/AURA-69/artic/wiki/Developer-Information). You can also contact any of the developers on Discord in order to know about the current state of the emulator.
 
