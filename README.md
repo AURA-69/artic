@@ -11,16 +11,6 @@
 It is written in C++ with portability in mind and builds are actively maintained for Windows, Linux, Android and macOS.
 </h4>
 
-<p align="center">
-    <a href="https://github.com/citra-emu/citra/actions/">
-        <img src="https://github.com/citra-emu/citra/workflows/citra-ci/badge.svg"
-            alt="GitHub Actions Build Status">
-    </a>
-    <a href="https://discord.gg/FAXfZV9">
-        <img src="https://img.shields.io/discord/220740965957107713?color=%237289DA&label=Artic&logo=discord&logoColor=white"
-            alt="Discord">
-    </a>
-</p>
 
 <p align="center">
   <a href="#compatibility">Compatibility</a> |
